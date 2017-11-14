@@ -7,7 +7,8 @@
       "id": "barcode",
       "name": "Barcode",
       "sourceScreenId": "app.barcode",
-      "sourceAppId": "Barcode"
+      "sourceAppId": "Barcode",
+      "model": "login"
     },
     {
       "id": "howto",
