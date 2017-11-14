@@ -3,6 +3,12 @@
   "description": "To Test Barcode Scanning functionality",
   "defaultLayout": "phone-portrait",
   "previewToken": "c51c07b3",
-  "uiCommonVersion": "5.0.38",
-  "creatorId": "admin"
+  "uiCommonVersion": "5.2.1",
+  "creatorId": "admin",
+  "id": "barcodetest",
+  "previewImageURL": "/previews/c51c07b3-barcodetest/app/barcode.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gssbthir/barcodetest",
+  "creatorName": "PowWow Admin",
+  "sdks": []
 }
