@@ -1,0 +1,8 @@
+{
+  "name": "barcodetest",
+  "description": "To Test Barcode Scanning functionality",
+  "defaultLayout": "phone-portrait",
+  "previewToken": "c51c07b3",
+  "uiCommonVersion": "5.0.38",
+  "creatorId": "admin"
+}
